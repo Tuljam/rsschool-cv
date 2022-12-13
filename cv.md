@@ -1,6 +1,6 @@
 # Natalia Minenkova
 
-===
+---
 
 ## Contacts:
 
