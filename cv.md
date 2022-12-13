@@ -2,20 +2,20 @@
 
 ---
 
-## Contacts:
+### Contacts:
 
 ---
 
 - E-mail: nminiankova@gmail.com
 - Mobile: +375 29 6 99 63 73
 
-## About myself:
+### About myself:
 
 ---
 
 I'm finishing a Front-end Developer course in TeachMeSkills school. I think, I'm a person with learning skills, ready to master new instruments and technologies. I'm at the beginning of my developer's career, I think, that patience and diligence help me to become an real specialist.
 
-## Code example:
+### Code example:
 
 ---
 
@@ -29,27 +29,27 @@ function Intrest (n) {
     alert(Intrest(10000));
 ```
 
-## Projects:
+### Projects:
 
 ---
 
 [React-budget-app:] (https://github.com/Tuljam/react-budget-app.git)
 
-## Work experirnce:
+### Work experirnce:
 
 ---
 
 - 2013-2022 work in the banking sector as a corporate lending officer
 - 2007-2013 work in the banking sector as a manager to support operations of legal entities
 
-## Education and courses ;
+### Education and courses ;
 
 ---
 
 - 1993 - 1997 Belarusian Agricultural Academy
 - 2022 TeachMeSkills - Front-End Developer
 
-## Hard Skils:
+### Hard Skils:
 
 ---
 
@@ -62,7 +62,7 @@ function Intrest (n) {
 - Git
 - Excel/Word
 
-## Soft Skils:
+### Soft Skils:
 
 ---
 
@@ -72,7 +72,7 @@ function Intrest (n) {
 - Emotional
 - Responsible
 
-## Language:
+### Language:
 
 ---
 
