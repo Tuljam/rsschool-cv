@@ -1,3 +1,3 @@
 # rsschool-cv
 
-ttps://Tuljam.github.io/rsschool-cv/cv
+https://Tuljam.github.io/rsschool-cv/cv
