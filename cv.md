@@ -1,19 +1,38 @@
-_'этот текст будет наклонным(курсив)_
-_Этот текст будет наклонным(курсив)_
+# Natalia Minenkova
 
-**Этот текст будет жирным**
-**Этот текст будет жирным**
+===
 
-_Можно вставлять **один тип** в другой_
+## Contacts:
 
-# резюме, превращается в тэг <h1>
+---
 
-## превращается в тэг <h2>
+- E-mail: nminiankova@gmail.com
+- # Mobile: +375 29 6 99 63 73
 
-### превращается в тэг <h3>
+## About myself:
 
-#### превращается в тэг <h4>
+---
 
-##### превращается в тэг <h5>
+# I'm finishing a Front-end Developer course in TeachMeSkills school. I think, I'm a person with learning skills, ready to master new instruments and technologies. I'm at the beginning of my developer's career, I think, that patience and diligence help me to become an real specialist.
 
-###### превращается в тэг <h6>
+## Code example:
+
+---
+
+```
+function Intrest (n) {
+        let rate = 0.17;
+        let year = 5;
+
+        return Math.round(n*rate*year);
+    }
+    alert(Intrest(10000));
+```
+
+===
+
+## Projects:
+
+---
+
+[React-budget-app:] (https://github.com/Tuljam/react-budget-app.git)
